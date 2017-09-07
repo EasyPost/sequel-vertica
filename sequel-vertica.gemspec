@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Camilo Lopez"]
   gem.email         = ["camilo@camilolopez.com"]
   gem.description   = %q{Sequel adapter for the Vertica database}
-  gem.summary       = %q{Sequel adapter for the Vertica database largely based on the PostgreSQL adapter}
-  gem.homepage      = "https://github.com/camilo/sequel-vertica"
+  gem.summary       = %q{Fork of Sequel adapter for the Vertica database https://github.com/camilo/sequel-vertica}
+  gem.homepage      = "https://github.com/EasyPost/sequel-vertica"
   gem.license     = "MIT"
 
   gem.requirements  = "Vertica version 6.0 or higher"
